@@ -2,7 +2,7 @@
 
 A repository to ask [@samiheikki](https://twitter.com/samisuoheikki) anything.
 
-I've worked at [Vaadin](https://vaadin.com) for a while and [spoken](https://suoheikki.com/#speaks) a lot about building progressive web apps and mobile apps. On my freetime I'm building important shit like [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/). If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
+I've worked at [@vaadin](https://github.com/vaadin/) for a while and [spoken](https://suoheikki.com/#speaks) a lot about building progressive web apps and web performance. On my freetime I'm building important shit like [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/). If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
 
 ### Ask a question
 
